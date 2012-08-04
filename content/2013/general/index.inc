@@ -1,8 +1,3 @@
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-
-
-
         <div class="hero-unit">
         <h1>Festival of Code 2012</h1>
         <p>50 centres across the UK, 6th to 12th August 2012. The largest free event in the UK aimed at young coders, engineers and geeks is celebrating its fourth annual event. Don't miss out: sign up now.</p>

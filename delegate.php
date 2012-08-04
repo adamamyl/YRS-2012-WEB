@@ -2,6 +2,8 @@
 require_once('nav.php');
 require_once('widgets.php');
 
+$competition_location = '2012/during';
+
 $page=new Page();
 
 $url=$_GET['p'];
@@ -12,7 +14,7 @@ unset($url_);
 $page->breadcrumbs=array_searchRecursive($url,$navigation);
 $page->title=end($page->breadcrumbs);
 
-if(file_exists($page->get_content_path($url))==FALSE){
+if(file_exists($page->get_content_path($url,$competition_location))==FALSE){
 	$page->error(404);
 }
 
@@ -43,9 +45,10 @@ function array_searchRecursive( $needle, $haystack, $strict=false, $path=array()
   <head>
     <meta charset="utf-8">
     <title><?PHP echo $page->get_title(); ?></title>
+    <script src="bootstrap/js/jquery.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="author" content="Lawrence Job (GridFusions) on behalf of Rewired State">
 
     <!-- Le styles -->
     <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -162,7 +165,7 @@ function array_searchRecursive( $needle, $haystack, $strict=false, $path=array()
         
 <?PHP echo $page->print_pills($navigation[$page->breadcrumbs[0]],$url); ?>
         
-            <?PHP if(@readfile($page->get_content_path($url))===FALSE) throw new Exception ("File could not be opened for reading."); ?>
+            <?PHP if(@readfile($page->get_content_path($url,$competition_location))===FALSE) throw new Exception ("File could not be opened for reading."); ?>
 </div></div>
 
 
@@ -206,7 +209,6 @@ function array_searchRecursive( $needle, $haystack, $strict=false, $path=array()
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="bootstrap/js/jquery.js"></script>
     <script src="bootstrap/js/bootstrap.js"></script>
 	        <script>
 			$('#yrs-info-tabs a').click(function (e) {
