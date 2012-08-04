@@ -1,6 +1,6 @@
 <p>Moving 1,000 people around the country can be a pain, so we have a kick-ass team of YRS'ers to help.
 The best way to get a quick response is via our Twitter, phones or by email, so they're below. If you're a young person, the best email address to use is kids@, and if you're a parent wanting to know more, the best person to ask is angie@.</p>
-
+<style>.festivaltickets {display:none}</style>
 
 <table class="table table-bordered">
     <thead>

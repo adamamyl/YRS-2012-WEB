@@ -1,8 +1,9 @@
 <?PHP
-require_once('nav.php');
-require_once('widgets.php');
 
 $competition_location = '2012/during';
+
+require_once('content/'.$competition_location.'/nav.php');
+require_once('widgets.php');
 
 $page=new Page();
 
@@ -115,6 +116,29 @@ function array_searchRecursive( $needle, $haystack, $strict=false, $path=array()
 	#sponsorspage li {height:100px;width:260px; float:left; padding:20px;list-style:none;text-align:center}
 	#sponsorspage ul {padding:0px;margin:0px;}
 	
+	.festivaltickets {position:absolute;
+		top:30px;
+		z-index:9001;
+		width:auto;
+		left:80%
+	}
+	.festivaltickets .cntnr {position:relative;
+	width:50%;}
+	.festivaltickets a {
+		display:block;
+		float:right;
+		background-image:url(assets/tickets.png);
+		background-repeat:no-repeat;
+		background-position:0px 0px;
+		width:217px;
+		height:250px;
+		text-decoration:none;
+	}
+	.festivaltickets a:active {
+		background-position:0px -248px;
+	}
+	.festivaltickets a span {visibility:collapse;}
+	
 	</style>
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
@@ -156,7 +180,10 @@ function array_searchRecursive( $needle, $haystack, $strict=false, $path=array()
       </div>
     </div>
 
-      <div class="container">
+      <div class="container"  id="container">
+  <div class="festivaltickets"><div class="cntnr">
+   <a href="tickets"><span>Get your tickets now!</span></a>
+  </div></div>
 			<!---- BREADCRUMBS ---->
             <?PHP /*echo $page->print_nav('/'); */?>
     <div class="tabbable tabs-left">

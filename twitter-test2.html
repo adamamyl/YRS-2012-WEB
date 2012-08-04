@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+<script src="./bootstrap/js/jquery.js"></script>
+<style>
+.tweet {
+	font-family:Arial, Helvetica, sans-serif;
+	clear:both;
+	cursor:default;
+}
+.tweet a {color:inherit;text-decoration:none;}
+.tweet p {
+	color:#fff;
+	background-color:#C30;
+	display:block;
+	float:left;
+	padding:10px;
+	margin:0px;
+}
+.tweet small {
+	display:block;
+	float:left;
+	clear:both;
+	background-color:#CCC;
+	color:#666;
+	padding:4px;
+	margin:0px;
+}
+.tweet small span {
+	color:#999;
+}
+.tweet {padding:20px 0px;}
+.tweet p.help {
+	background-color:#09C;
+}
+</style>
+<script>
+var greatest_id=0;
+
+function init(){
+	ref();
+	setInterval("ref();",1000*60);
+}
+
+function ref(){
+$.ajax({
+   type: 'GET',
+    url: 'http://search.twitter.com/search.json?q=YRSSAP+OR+YRS2012+OR+YRSHELP&count=10',
+    async: false,
+	jsonpCallback: 'jsonCallback',
+	contentType: "application/json",
+	dataType: 'jsonp',
+	success: function(json) {
+		for(var i=json.results.length-1;i>=0;--i) {
+			console.log(json.results[i].created_at);	
+			if(json.results[i].id>greatest_id){
+				greatest_id = json.results[i].id;
+				createTweet(json.results[i]);
+			}else console.log('old tweet');
+		}
+    },
+    error: function(e) {
+		console.log(e.message);
+    }
+});
+}
+
+function createTweet(tweet){
+	var tweetDiv = document.createElement('div');
+	tweetDiv.className='tweet';
+	var tweetContent = document.createElement('p');
+	var tweetMeta = document.createElement('small');
+	if(/yrshelp/i.test(tweet.text)) tweetContent.className='help';
+	tweetContent.innerHTML = '<a href="http://twitter.com/'+tweet.from_user+'/status/'+tweet.id+'">'+tweet.text+'</a>';
+	var date = new Date(tweet.created_at);
+	tweetMeta.innerHTML = '<a href="http://twitter.com/'+tweet.from_user+'">' + tweet.from_user_name+' ('+ tweet.from_user +')</a> <span>'+date.toDateString() + ' ' + date.getHours()+':'+((date.getMinutes()>9)?date.getMinutes():('0'+date.getMinutes()))+'</span>';
+	tweetDiv.appendChild(tweetContent);
+	tweetDiv.appendChild(tweetMeta);
+	$(tweetDiv).hide();//tweetDiv.style.display='none';
+	document.body.appendChild(tweetDiv);
+	//alert(tweetDiv);
+	$(tweetDiv).insertBefore(document.body.children[0]);
+	$(tweetDiv).show(500);//tweetDiv.style.display='none';
+
+}
+</script>
+</head>
+
+<body onload="init();">
+<div class="end">&nbsp;</div>
+</body>
+</html>

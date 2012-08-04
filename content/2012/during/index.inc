@@ -2,6 +2,8 @@
         <h1>SAP Festival of Code 2012</h1>
         <p><a class="btn btn-danger btn-large">Where am I meant to be? &rarr;</a> <a class="btn btn-large">About the weekend festival &rarr;</a> <a class="btn btn-large">Press &amp; info &rarr;</a></p>
       </div>
+	  <h1>As it Happens <small>#yrs2012 #yrshelp #SAPYRS</small></h1>
+	  <div id="flickrwidget-container"><div id="flickrwidget">&nbsp;</div></div>
     <div class="row" style="margin-bottom:30px;margin-top:30px; clear:both">
     <div class="span8">
         <!--<ul class="nav nav-tabs" id="yrs-info-tabs">
@@ -36,7 +38,7 @@
         </div>-->
 		
 		
-	<iframe width="100%" height="600" src="//cms.youngrewiredstate.org/data/api/centres.example.html" frameborder="0"></iframe>
+	<iframe width="100%" height="600" src="//cms.youngrewiredstate.org/data/api/centres.homepage.html" frameborder="0"></iframe>
         
             
     </div>
@@ -46,6 +48,9 @@
     <br style="clear:both">
     </div>
 	<style>
+	
+body { padding:0px 0px !important; }
+.container#container {background-color:#fff;padding:80px 20px 0px 20px !important;}
 	
 .tweet, .tweet p{
 font-size:10px;
@@ -69,7 +74,7 @@ font-size:10px;
 	display:block;
 	float:left;
 	clear:both;
-	background-color:#CCC;
+	background-color:#eee;
 	color:#666;
 	padding:2px 5px;
 	margin:0px;
@@ -79,29 +84,46 @@ font-size:10px;
 .tweet small span {
 	color:#999;
 }
-.tweet {padding:20px 0px;}
+.tweet {padding:20px 0px 0px 0px;}
 .tweet p.help {
 	background-color:#09C;
+}
+.tweet p.SAP {
+	background-color:#000;
 }
 
 #twitterwidget {
 	max-height:800px;
 	overflow:hidden;
+	margin-top:-20px;
 }
+
+.pic a {color:inherit;text-decoration:none;}
+a img  {border:none}
+.pic {padding:5px 10px 5px 0px;}
+#flickrwidget-container {height:165px; width:auto; overflow:hidden; }
+#flickrwidget {width:150%}
+
+.hero-unit {padding:30px !important;}
+
+h1 small {font-size:0.7em;color:#999;}
+
 </style>
 <script>
 var greatest_id=0;
+var greatest_flickr_date=0;
 
 $(function(){
 	ref();
 	setInterval("ref();",1000*60);
-	maps_initialize();
+	refFlickr();
+	setInterval("refFlickr();",1000*60);
 });
 
 function ref(){
 $.ajax({
    type: 'GET',
-    url: 'http://search.twitter.com/search.json?q=YRSSAP+OR+YRS2012+OR+YRSHELP&count=10',
+    url: 'http://search.twitter.com/search.json?q=SAPYRS+OR+YRSSAP+OR+YRS2012+OR+YRSHELP&count=10',
     async: false,
 	jsonpCallback: 'jsonCallback',
 	contentType: "application/json",
@@ -128,6 +150,7 @@ function createTweet(tweet){
 	var tweetContent = document.createElement('p');
 	var tweetMeta = document.createElement('small');
 	if(/yrshelp/i.test(tweet.text)) tweetContent.className='help';
+	if(/SAPYRS/i.test(tweet.text)) tweetContent.className='SAP';
 	tweetContent.innerHTML = '<a href="http://twitter.com/'+tweet.from_user+'/status/'+tweet.id_str+'">'+tweet.text+'</a>';
 	var date = new Date(tweet.created_at);
 	tweetMeta.innerHTML = '<a href="http://twitter.com/'+tweet.from_user+'">' + tweet.from_user_name+' ('+ tweet.from_user +')</a> <span>'+date.toDateString() + ' ' + date.getHours()+':'+((date.getMinutes()>9)?date.getMinutes():('0'+date.getMinutes()))+'</span>';
@@ -141,4 +164,56 @@ function createTweet(tweet){
 	$(tweetDiv).show(500);//tweetDiv.style.display='none';
 
 }
+
+function refFlickr(){
+$.ajax({
+   type: 'GET',
+    url: 'http://api.flickr.com/services/feeds/photos_public.gne?tags=yrs2011&lang=en-us&format=json',
+    async: false,
+	jsonpCallback: 'jsonFlickrFeed',
+	contentType: "application/json",
+	dataType: 'jsonp',
+	success: function(json) {
+		console.log(json.items);
+		for(var i=json.items.length-1;i>=0;--i) {
+			console.log(json.items[i].created_at);
+			var date = new Date(json.items[i].published);
+			var mils = date.getTime();
+			if(mils>greatest_flickr_date){
+				greatest_flickr_date = mils;
+				createPic(json.items[i]);
+			}else console.log('old pic');
+		}
+    },
+    error: function(e) {
+		console.log(e.message);
+    }
+});
+}
+
+function createPic(pic){
+	var home = document.getElementById('flickrwidget');
+	var picDiv = document.createElement('div');
+	picDiv.className='pic';
+	var picLink = document.createElement('a');
+	picLink.href = pic.link;
+	var picContent = document.createElement('img');
+	picContent.src=pic.media.m;
+	picContent.style.height='155px';
+	picDiv.style.cssFloat='left';
+	picLink.appendChild(picContent);
+	picDiv.appendChild(picLink);
+	$(picDiv).hide();//tweetDiv.style.display='none';
+	console.log(pic.media.m);
+	home.insertBefore(picDiv,home.firstChild);
+	//$(picDiv).show(500);//tweetDiv.style.display='none';
+	$(picContent).load(imageLoaded);
+
+}
+
+function imageLoaded(e){
+	console.log(e.target.parentElement.parentElement);
+	$(e.target.parentElement.parentElement).show(500);
+}
+
 </script>
