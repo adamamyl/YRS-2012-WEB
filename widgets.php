@@ -73,11 +73,12 @@ class Page {
 		return ($this->title===0)?'Young Rewired State':'YRS: '.$this->breadcrumbs[0].' &mdash; '.$this->title;
 	}
 	
-	public function get_content_path($str,$loc){
-		if(substr($str,-1) == '/')return 'content/'.$loc.'/'.$str.'index.inc';
-		else return 'content/'.$loc.'/'.$str.'.inc';
-	}
-	
+    public function get_content_path($str,$loc){
+            if($str=='') return 'content/'.$loc.'/index.inc';
+            if(substr($str,-1) == '/')return 'content/'.$loc.'/'.$str.'index.inc';
+            else return 'content/'.$loc.'/'.$str.'.inc';
+    }
+
 	private function print_pills_sub(){}
 	
 }
