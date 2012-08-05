@@ -59,13 +59,14 @@ class Page {
 	}
 	
 	function error($integer){
+		if(isset($_GET['p'])&&$_GET['p']=='festival') header("Location: /foc/");
 		header("HTTP/1.1 404 Not Found");
 		die("You gone and dunnit now. <a href=\"/\">Go home.</a><div style=\"font-size:256px\">404</div>");
 	}
 	
 	private function get_url($str){
-		if(substr($str,-1) == '/')return '?p='.$str.'&e=';
-		else return '?p='.$str.'&e=.html';
+		if(substr($str,-1) == '/')return '/'.$str;
+		else return '/'.$str.'.html';
 	}
 	
 	public function get_title(){
