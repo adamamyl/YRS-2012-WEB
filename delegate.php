@@ -92,7 +92,7 @@ function array_searchRecursive( $needle, $haystack, $strict=false, $path=array()
 		text-shadow:#fff 0px 1px 0px;
 		padding:20px 0px;
 		margin:20px 0px 0px 0px;
-		background-image:url('static/bobble.png');
+		background-image:url('/static/bobble.png');
 		background-position:center right;
 		background-repeat:no-repeat;
 		height:150px;
@@ -138,7 +138,7 @@ function array_searchRecursive( $needle, $haystack, $strict=false, $path=array()
 	.festivaltickets a {
 		display:block;
 		float:right;
-		background-image:url(static/tickets.png);
+		background-image:url(/static/tickets.png);
 		background-repeat:no-repeat;
 		background-position:0px 0px;
 		width:217px;
@@ -218,7 +218,7 @@ h2{clear:both}
 
 .navbar .brand {padding-left:80px;
 color:#fff;
-background-image:url('static/sap-small.png');
+background-image:url('/static/sap-small.png');
 background-repeat:no-repeat;
 background-position:20px -1px}
 
