@@ -19,7 +19,8 @@ ul.resources li {
 h3 {clear:both;margin:10px;}
 
 </style>
-
+<iframe width="49%" height="300" src="http://www.youtube.com/embed/erTUl9m4-to?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="49%" height="300" src="http://www.youtube.com/embed/25WuyA8qLwI?rel=0" frameborder="0" allowfullscreen></iframe>
 <h3>Start with Basics</h3>
 <ul class="resources">
 
