@@ -92,7 +92,7 @@ function array_searchRecursive( $needle, $haystack, $strict=false, $path=array()
 		text-shadow:#fff 0px 1px 0px;
 		padding:20px 0px;
 		margin:20px 0px 0px 0px;
-		background-image:url('assets/bobble.png');
+		background-image:url('static/bobble.png');
 		background-position:center right;
 		background-repeat:no-repeat;
 		height:150px;
@@ -138,7 +138,7 @@ function array_searchRecursive( $needle, $haystack, $strict=false, $path=array()
 	.festivaltickets a {
 		display:block;
 		float:right;
-		background-image:url(assets/tickets.png);
+		background-image:url(static/tickets.png);
 		background-repeat:no-repeat;
 		background-position:0px 0px;
 		width:217px;
@@ -218,7 +218,7 @@ h2{clear:both}
 
 .navbar .brand {padding-left:80px;
 color:#fff;
-background-image:url('assets/sap-small.png');
+background-image:url('static/sap-small.png');
 background-repeat:no-repeat;
 background-position:20px -1px}
 
@@ -234,11 +234,11 @@ background-position:20px -1px}
     <![endif]-->
 
     <!-- Le fav and touch icons -->
-    <link rel="shortcut icon" href="../assets/ico/favicon.ico">
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../assets/ico/apple-touch-icon-114-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">
+    <link rel="shortcut icon" href="../static/ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="../static/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../static/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../static/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="../static/ico/apple-touch-icon-57-precomposed.png">
   </head>
 
   <body>
@@ -251,16 +251,16 @@ background-position:20px -1px}
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </a>
-          <a class="brand" href="?p=/">Young Rewired State 2012</a>
+          <a class="brand" href="/">Young Rewired State 2012</a>
           <div class="nav-collapse">
             <ul class="nav">
-              <li class="<?PHP echo $page->get_active('As it Happens');?>"><a href="?p=/">As it Happens</a></li>
-              <li class="<?PHP echo $page->get_active('Festival of Code');?>"><a href="?p=foc/">Festival of Code</a></li>
-              <li class="<?PHP echo $page->get_active('Candidates');?>"><a href="?p=kids/">Candidates</a></li>
-              <li class="<?PHP echo $page->get_active('Parents');?>"><a href="?p=parents/">Parents</a></li>
-              <li class="<?PHP echo $page->get_active('Internal');?>"><a href="?p=mentors/">Internals &amp; Volunteers</a></li>
-              <li class="<?PHP echo $page->get_active('Sponsors');?>"><a href="?p=sponsors/">Sponsors</a></li>
-              <li class="<?PHP echo $page->get_active('Contact');?>"><a href="?p=contact/">Contact</a></li>
+              <li class="<?PHP echo $page->get_active('As it Happens');?>"><a href="/">As it Happens</a></li>
+              <li class="<?PHP echo $page->get_active('Festival of Code');?>"><a href="/foc/">Festival of Code</a></li>
+              <li class="<?PHP echo $page->get_active('Candidates');?>"><a href="/kids/">Candidates</a></li>
+              <li class="<?PHP echo $page->get_active('Parents');?>"><a href="/parents/">Parents</a></li>
+              <li class="<?PHP echo $page->get_active('Internal');?>"><a href="/mentors/">Internals &amp; Volunteers</a></li>
+              <li class="<?PHP echo $page->get_active('Sponsors');?>"><a href="/sponsors/">Sponsors</a></li>
+              <li class="<?PHP echo $page->get_active('Contact');?>"><a href="/contact/">Contact</a></li>
             </ul>
             <ul class="nav pull-right">
               <li class="tickets"><a href="http://yrs12foc.eventbrite.com/">Tickets</a></li>
