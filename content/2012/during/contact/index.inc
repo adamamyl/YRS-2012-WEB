@@ -44,8 +44,8 @@ The best way to get a quick response is via our Twitter, phones or by email, so 
         </tr>
         <tr>
           <td>Press</td>
-          <td> Emma M</td>
-          <td><a href="mailto:emma@youngrewiredstate.org">emma@</a></td>
+          <td>Stephanie L</td>
+          <td><a href="mailto:press@youngrewiredstate.org">press@</a></td>
           <td>07730 570647</td>
         </tr>
         <tr>
@@ -55,19 +55,12 @@ The best way to get a quick response is via our Twitter, phones or by email, so 
           <td>07730 570647</td>
         </tr>
         <tr>
-          <td rowspan="2"><strong>Young people</strong> - send any questions here</td>
+          <td><strong>Young people</strong> - send any questions here</td>
           <td>General</td>
-          <td>Lawrence &amp; Kevin</td>
+          <td>Emma &amp; Neil</td>
           <td><a href="mailto:kids@youngrewiredstate.org">kids@</a></td>
           <td>-</td>
-        </tr>
-        <tr>
-          <td>Comms.</td>
-          <td>Lawrence J</td>
-          <td><a href="mailto:lawrence@youngrewiredstate.org">lawrence@</a></td>
-          <td>07800 925762</td>
-        </tr>
-        <tr>
+        </tr><tr>
           <td colspan="2"><strong>Parents</strong>; if you've any questions</td>
           <td>Angie L</td>
           <td><a href="mailto:angie@youngrewiredstate.org">angie@</a></td>

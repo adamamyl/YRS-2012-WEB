@@ -1,41 +1,11 @@
         <div class="hero-unit">
-        <h1>SAP Festival of Code 2012</h1>
-        <p><a class="btn btn-danger btn-large">Where am I meant to be? &rarr;</a> <a class="btn btn-large">About the weekend festival &rarr;</a> <a class="btn btn-large">Press &amp; info &rarr;</a></p>
+        <h1>SAP Young Rewired State 2012</h1>
+        <p><a class="btn btn-danger btn-large" href="kids/itenerary.html">Where am I meant to be? &rarr;</a> <a class="btn btn-large" href="foc/">About the weekend festival &rarr;</a> <a class="btn btn-large" href="foc/press.html">Press &amp; info &rarr;</a> <a class="btn btn-large" href="kids/links.html">Coding Links &rarr;</a></p>
       </div>
 	  <h1>As it Happens <small>#yrs2012 #yrshelp #SAPYRS</small></h1>
 	  <div id="flickrwidget-container"><div id="flickrwidget">&nbsp;</div></div>
     <div class="row" style="margin-bottom:30px;margin-top:30px; clear:both">
     <div class="span8">
-        <!--<ul class="nav nav-tabs" id="yrs-info-tabs">
-            <li class="active"><a href="#live-tweets">Live Tweets</a></li>
-            <li><a href="#about-the-event">About The Event</a></li>
-            <li><a href="#about-yrs">About Young Rewired State</a></li>
-            <li><a href="#last-year">Last Year</a></li>
-        </ul>
-        
-        <div class="tab-content">
-        	<div class="tab-pane active" id="live-tweets">
-			<div id="twitterwidget2"> </div>
-                
-		  </div>
-		  <div class="tab-pane" id="about-the-event">
-                <p style="line-height:150%;color:#333">Young Rewired State (YRS) is a spin-off event from the Rewired State series. Born from a combination of improving young people's access to technology and engineering with Rewired States mission of openness, we present to you: the annual Festival of Code.</p>
-                <p style="line-height:150%;color:#333">The week-long event in 2012 runs from the <strong>6th to the 12th August</strong>. During that week businesses, small and large, around the country act as hosts to local young people, YRS alumni, Rewired State mentors and other volunteers. YRSers will be challenged to build digital products: mobile and web, using at least one piece of open data. It is <strong>free for every under 18</strong> to enter. If you are interested, here's what you'll need:</p>
-                <ul>
-                  <li>A laptop (any laptop you like, as long as you're comfortable using it)</li>
-                  <li>At least a very basic understanding of programming, spreadsheets or graphics</li>
-                </ul>
-                <p style="line-height:150%;color:#333">At the end of the week everyone piles on coaches, trains and cars to the <a href="http://">The Custard Factory in Birmingham</a> where you will have a night of camp and code, pizza and camaraderie.</p>
-                <p style="line-height:150%;color:#333">On the Saturday, show off your creations to press, government and industry. Friends are made, lives are changed and, most importantly, prizes are given!</p>
-		  </div>
-            <div class="tab-pane" id="about-yrs">
-                <p style="line-height:150%;color:#666">Young Rewired State is the philanthropic arm of Rewired State. Our primary focus is to find and foster the young children and teenagers who are driven to teaching themselves how to code, how to program the world around them. This is a mighty challenge though well-supported with free tutorials online, but inevitably an isolating and solitary activity.</p>
-                <p style="line-height:150%;color:#666">The community of Rewired Staters, YRS alumni and current YRSers enables peer to peer learning and ends the often isolating experience of teaching yourself to code.</p>
-			</div>
-            <div class="tab-pane" id="last-year">
-                <p style="line-height:150%;"><iframe width="100%" height="480" src="http://www.youtube.com/embed/odT4cgd7d8c?rel=0&theme=white" frameborder="0" allowfullscreen></iframe></p>
-			</div>
-        </div>-->
 		
 		
 	<iframe width="100%" height="600" src="//cms.youngrewiredstate.org/data/api/centres.homepage.html" frameborder="0"></iframe>
@@ -107,6 +77,10 @@ a img  {border:none}
 .hero-unit {padding:30px !important;}
 
 h1 small {font-size:0.7em;color:#999;}
+
+.tickets {display:none !important;}
+
+.festivaltickets {display:block !important;}
 
 </style>
 <script>

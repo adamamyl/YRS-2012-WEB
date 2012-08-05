@@ -18,14 +18,19 @@
 		
 	</div>
 	<div class="span4">
+		<div class="alert alert-info">
+			<h4>Important Advice</h4>
+			<p>It is really important to us that your talent is not exploited and your youth is not taken advantage of. To help with this, we have produced an advice document. Please do take time to read it.</p>
+			<p><a href="./advice.html" class="btn btn-primary">Read it &rarr;</a></p>
+		</div>
 		<div class="well">
 			<h2>Sign Up</h2>
-			<p>Hurry! There's not long left to sign up for YRS 2012! You'll hear back from us in a couple of days when we've found you a centre. Go!</p>
-			<p><a href="#" class="btn btn-primary">Sign up now! &rarr;</a></p>
+			<p>Signups for 2012 are now closed. Express interest in the even-bigger YRS 2013!</p>
+			<p><a href="./signup.html" class="btn btn">Sign up now! &rarr;</a></p>
 		</div>
-		<h2>YRS: Festival of Code 2012</h2>
-		<p>The YRS festival of code is the fourth annual competition hosted by <a href="http://rewiredstate.org">Rewired State</a>. The event takes place simultaneously across the UK 
-		for the week learind up to the giant festival of code.</p>
+		<h2>SAP Young Rewired State 2012</h2>
+		<p>SAP Young Rewired State is the fourth annual competition hosted by <a href="http://rewiredstate.org">Rewired State</a>. The event takes place simultaneously across the UK 
+		for the week leading up to the giant festival of code.</p>
 		<ul>
 			<li>Compete for awesome prizes</li>
 			<li>Make a difference to the world with your idea</li>
@@ -33,7 +38,5 @@
 			<li>Meet other people as fascinating as you!</li>
 			<li>Did I mention the prizes?</li>
 		</ul>
-		<p>What are you waiting for? Get signed up now or explore the site for more info!</p>
-		<p>Lawrence</p>
 	</div>
 </div>

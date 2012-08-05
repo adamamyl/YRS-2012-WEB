@@ -27,7 +27,7 @@
             <ul>
                 <li><p>Age limit: 18 years and under (no lower age range)</p></li>
                 <li><p>Young people aged 18+ will sleep in a separate area</p></li>
-                <li><p>Young people aged 16-18 will sleep in a separate area, with written parental/guardian agreement provided to Rewired State</p></li>
-                <li><p>Young people aged 15 and under will need to be accompanied by a parent or carer and will be in a further segregated area</p></li>
+                <li><p>Young people aged 14-18 will sleep in a separate area, with written parental/guardian agreement provided to Rewired State</p></li>
+                <li><p>Young people aged 13 and under will need to be accompanied by a parent or carer and will be in a further segregated area (these may stay on Friday night only)</p></li>
             </ul>
             </div></div>

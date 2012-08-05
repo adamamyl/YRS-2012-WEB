@@ -84,13 +84,20 @@ function array_searchRecursive( $needle, $haystack, $strict=false, $path=array()
 		background-color:#991100 !important;
 	}
 	footer {
-		background-color:#666;
-		color:#ccc;
+		background-color:#C7C7C7;
+		color:#666;
+		text-shadow:#fff 0px 1px 0px;
 		padding:20px 0px;
 		margin:20px 0px 0px 0px;
+		background-image:url('assets/bobble.png');
+		background-position:center right;
+		background-repeat:no-repeat;
+		height:150px;
+		overflow:hidden;
 	}
-	footer a, footer a:visited{
-		color:#fff;
+	
+	footer a, footer a:visited, footer a:hover{
+		color:#333;
 	}
 	.content h1 {
 		color:#B63322;
@@ -120,7 +127,8 @@ function array_searchRecursive( $needle, $haystack, $strict=false, $path=array()
 		top:30px;
 		z-index:9001;
 		width:auto;
-		left:80%
+		left:80%;
+		display:none;
 	}
 	.festivaltickets .cntnr {position:relative;
 	width:50%;}
@@ -138,6 +146,82 @@ function array_searchRecursive( $needle, $haystack, $strict=false, $path=array()
 		background-position:0px -248px;
 	}
 	.festivaltickets a span {visibility:collapse;}
+	
+	.tickets,.live {
+		
+font-weight: bold;
+	}
+	
+	.live {background-color: #269;}
+	
+	.judges div.span4 div.cont {
+	border:3px solid #eee;
+	padding:20px;
+	height:480px;
+	overflow:hidden;
+	margin-bottom: 20px;
+	
+}
+.judges div.span4 img {
+	padding-bottom:20px;
+}
+
+.deliv-partners li {
+	border:3px #eee solid;
+	margin:2%;
+	padding:10px;
+	list-style:none;
+	float:left;
+	width:25%;
+	height:100px;
+}
+.deliv-partners {
+	margin:0px;
+	padding:0px;
+	text-align:center;
+}
+.sponsors.jhoPE li{
+	border:3px #ddd solid;
+	width:20.5% !important;
+	height:70px !important;
+	margin:0px 2% 20px 0 !important;
+	padding:40px 1% !important;
+}
+
+.sponsors.seniorprefects li{
+	width:13% !important;
+	border:3px solid #ddd;
+	margin:1% !important;
+	height:80px !important;
+	padding:20px 1% 0px 1% !important;
+}
+.deputyheads li {
+	width:43% !important;
+	height:235px !important;
+	margin:20px 2% 20px 00px !important;
+	border:3px #ddd solid;
+	
+}
+.lineleaders li {
+	width:10% !important;
+}
+
+.headlineSAP li {
+	text-align:center;
+	width:100% !important;
+	height:300px !important;
+}
+h2{clear:both}
+
+.navbar .brand {padding-left:80px;
+color:#fff;
+background-image:url('assets/sap-small.png');
+background-repeat:no-repeat;
+background-position:20px -1px}
+
+	
+	.live {display:none !important;}
+	
 	
 	</style>
 
@@ -167,13 +251,17 @@ function array_searchRecursive( $needle, $haystack, $strict=false, $path=array()
           <a class="brand" href="?p=/">Young Rewired State 2012</a>
           <div class="nav-collapse">
             <ul class="nav">
-              <li class="<?PHP echo $page->get_active('The Event');?>"><a href="?p=/">The Event</a></li>
-              <li class="<?PHP echo $page->get_active('Kids');?>"><a href="?p=kids/">I'm a Kid</a></li>
-              <li class="<?PHP echo $page->get_active('Parents');?>"><a href="?p=parents/">I'm a Parent</a></li>
-              <li class="<?PHP echo $page->get_active('Mentors');?>"><a href="?p=mentors/">I'm a Mentor</a></li>
-              <li class="<?PHP echo $page->get_active('Centres');?>"><a href="?p=centres/">I'm a Centre</a></li>
+              <li class="<?PHP echo $page->get_active('As it Happens');?>"><a href="?p=/">As it Happens</a></li>
+              <li class="<?PHP echo $page->get_active('Festival of Code');?>"><a href="?p=foc/">Festival of Code</a></li>
+              <li class="<?PHP echo $page->get_active('Candidates');?>"><a href="?p=kids/">Candidates</a></li>
+              <li class="<?PHP echo $page->get_active('Parents');?>"><a href="?p=parents/">Parents</a></li>
+              <li class="<?PHP echo $page->get_active('Internal');?>"><a href="?p=mentors/">Internals &amp; Volunteers</a></li>
               <li class="<?PHP echo $page->get_active('Sponsors');?>"><a href="?p=sponsors/">Sponsors</a></li>
               <li class="<?PHP echo $page->get_active('Contact');?>"><a href="?p=contact/">Contact</a></li>
+            </ul>
+            <ul class="nav pull-right">
+              <li class="tickets"><a href="http://yrs12foc.eventbrite.com/">Tickets</a></li>
+              <li class="live"><a href="http://new.livestream.com/keyone/yrs2012">LIVE NOW</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
@@ -182,7 +270,7 @@ function array_searchRecursive( $needle, $haystack, $strict=false, $path=array()
 
       <div class="container"  id="container">
   <div class="festivaltickets"><div class="cntnr">
-   <a href="tickets"><span>Get your tickets now!</span></a>
+   <a href="http://yrs12foc.eventbrite.com/"><span>Get your tickets now!</span></a>
   </div></div>
 			<!---- BREADCRUMBS ---->
             <?PHP /*echo $page->print_nav('/'); */?>
@@ -205,7 +293,7 @@ function array_searchRecursive( $needle, $haystack, $strict=false, $path=array()
                 <h3>Who is Rewired State?</h3>
                 <p>We run hack days. We take between 10 – 150 talented developers and give them money, time, space, caffeine, sugar and food, whilst they build cool/creative prototypes to solve your problems. If you'd like to kickstart a new project or accelerate an existing Research & Development programme, get in touch.  <a href="http://rewiredstate.org">Find out more about Rewired State &rarr;</a></p>
             </div>
-            <div class="span4">
+            <div class="span2">
               <h4>Find Something</h4>
               <ul>
                   <li><a href="/">Homepage</a></li>
@@ -215,6 +303,16 @@ function array_searchRecursive( $needle, $haystack, $strict=false, $path=array()
                   <li><a href="/centres/">Centres</a></li>
                   <li><a href="/sponsors/">Sponsors</a></li>
                   <li><a href="/contact/">Press</a></li>
+              </ul>
+            </div>
+           <div class="span2">
+              <h4>&nbsp;</h4>
+              <ul>
+                  <li><a href="http://new.livestream.com/keyone/yrs2012">Live Stream</a></li>
+                  <li><a href="http://yrs12foc.eventbrite.com/">Event Tickets</a></li>
+                  <li><a href="http://festivalofcode.eventbrite.com/">Volunteer Tickets</a></li>
+                  <li><a href="/mentors/">Volunteer Portal</a></li>
+                  <li><a href="/contact/">Contact</a></li>
               </ul>
             </div>
           <div class="span4">

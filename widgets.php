@@ -39,19 +39,19 @@ class Page {
 	
 	function print_title(){
 		switch($this->breadcrumbs[0]){
-			case 'Kids':
+			case 'Candidates':
 			return '<h1>Information for Participants</h1>';
 			case 'Parents':
 			return '<h1>Information for Parents</h1>';
-			case 'Mentors':
-			return '<h1>Information for Mentors</h1>';
-			case 'Centres':
-			return '<h1>Information for Centres</h1>';
+			case 'Internal':
+			return '<h1>Information for Volunteers, Mentors &amp; Centres</h1>';
+			case 'Festival of Code':
+			return '<h1>Festival of Code</h1>';
 			case 'Sponsors':
 			return '<h1>YRS Sponsors</h1>';
 			case 'Contact':
 			return '<h1>Contact Information</h1>';
-			case 'The Event':
+			case 'As it Happens':
 			return '';
 			default:
 			return '<h1>Generic Page</h1>';

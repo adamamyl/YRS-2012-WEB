@@ -6,8 +6,8 @@
 	<div class="span4">
 		<div class="well">
 			<h2>Sign Up</h2>
-			<p>Hurry! There's not long left to sign up for YRS 2012! You'll hear back from us in a couple of days when we've found you a centre. Go!</p>
-			<p><a href="#" class="btn btn-primary">Sign up now! &rarr;</a></p>
+			<p>Signups for 2012 are now closed. Express interest in the even-bigger YRS 2013!</p>
+			<p><a href="./signup.html" class="btn btn">Sign up now! &rarr;</a></p>
 		</div>
 	</div>
 	<div class="span8">

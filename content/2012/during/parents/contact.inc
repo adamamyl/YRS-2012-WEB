@@ -8,14 +8,14 @@
 				<div class="well">
 					<h3>Angi</h3>
 					<p>Angi is available for any questions about the event from a parent's perspective.</p>
-					<a class="btn btn-primary">Email Angie</a>
+					<a class="btn btn-primary" href="mailto:angi@rewiredstate.org">Email Angie</a>
 				</div>
 			</div>
 			<div class="span4">
 				<div class="well">
-					<h3>Lawrence & Kevin</h3>
-					<p>Lawrence and Kevin are available for any questions about the event from kids and parents.</p>
-					<a class="btn">Email Lawrence &amp; Kevin</a>
+					<h3>General Kids Enquiries</h3>
+					<p>Emma and Neil are available for any questions about the event from kids and parents.</p>
+					<a class="btn" href="mailto:kids@rewiredstate.org">Email the Team</a>
 				</div>
 			</div>
 		</div>

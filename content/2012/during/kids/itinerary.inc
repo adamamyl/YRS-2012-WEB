@@ -1,3 +1,5 @@
+<iframe width="100%" height="400" src="http://www.youtube.com/embed/erTUl9m4-to?rel=0" frameborder="0" allowfullscreen></iframe>
+
 <div class="row">
 	<div class="span6">
 		<h2>Itenerary</h2>
@@ -25,14 +27,14 @@
 		<p>09.30 &mdash; Arriving in the morning</p>
 		<p>10.00 &mdash; Coding continues</p>
 		<p>12.30 &mdash; Lunch time</p>
-		<p>13.00 &mdash; Leaving for The Venue (TBA) </p>
+		<p>13.00 &mdash; Leaving for The Custard Factory </p>
 		<h4>Saturday</h4>
 		<p>On Saturday, you'll wake up in time for the scary bit: the presentations. You'll be presenting to industry experts, other
 		participants, parents and other curious people to compete for a place in the afternoon final presentations (the bit with the prizes).</p>
 		<p>11.00 &mdash; First presentations begin.</p>
 		<p>13.30 &mdash; Lunch is served! </p>
 		<p>15.00 &mdash; The big presentation; judges, prizes and other awards.</p>
-		<p><em>You may also stay on Saturday night if it helps with transport arrangements.</em></p>
+		<p><em>You may also stay on Saturday night if it helps with transport arrangements - 14 &amp; over only.</em></p>
 	</div>
 	<div class="span6 kids-checklists">
 		<h2>Checklists</h2>
