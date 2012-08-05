@@ -15,7 +15,9 @@ unset($url_);
 
 if($url == 'festival') header('Location: /foc/');
 
-$page->breadcrumbs=array_searchRecursive($url,$navigation);
+//echo ($url=='')?('/'):($url)
+
+$page->breadcrumbs=array_searchRecursive(($url=='')?('/'):($url),$navigation);
 $page->title=end($page->breadcrumbs);
 
 if(file_exists($page->get_content_path($url,$competition_location))==FALSE){

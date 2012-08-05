@@ -42,7 +42,7 @@
 <div class="row"><div class="span12">
 <h2>About the Festival</h2>
 <div class="row"><div class="span8">
-<p>Friday 10th to Sunday 12th sees the grand final of the SAP Young Rewired State 2012 week. On the Friday night the young programmers will all come to the Custard Factory in Birmingham and have fireside chats whilst they code with wonderful people who are programmers doing great things, including representatives from Raspberry Pi, London Zoo and twilio amongst many others. Whilst they finish coding their apps and preparing their presentations they will be able to hear, chat and interact with some of the UK's greatest digital visionaries.</p>
+<p>Friday 10th to Sunday 12th sees the grand final of the SAP Young Rewired State 2012 week. On the Friday night the young programmers will all come to the Custard Factory in Birmingham and have fireside chats whilst they code with wonderful people who are programmers doing great things, including representatives from Raspberry Pi, London Zoo and Twilio amongst many others. Whilst they finish coding their apps and preparing their presentations they will be able to hear, chat and interact with some of the UK's greatest digital visionaries.</p>
 
 <p>They will have a massive sleepover in the Custard Factory preparing for the Saturday show and tell. Saturday brings a morning of heats where each centre will present in five concurrent streams, to five panels of esteemed judges with winners in four prize categories (Best in Show - sponsored by SAP, Best example of Coding, Wish I had thought of that and Code a better Country) going forward to the Grand Finale in the afternoon.</p>
 
@@ -57,7 +57,7 @@
 <div class="span4">
 <div class="well well-large">
 <h3>Tickets still available!</h3>
-<p>Be stunned by the outcome of the week. Get tickets for the SAP YRS Festival of Code 2012 now.</p>
+<p>Be stunned by the outcome of the week. Get tickets for the Festival of Code now.</p>
 <a href="http://yrs12foc.eventbrite.com/" class="btn btn-primary">Get tickets now! &rarr;</a></div>
 </div>
 </div>
