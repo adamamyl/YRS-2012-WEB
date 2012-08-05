@@ -46,19 +46,19 @@ function array_searchRecursive( $needle, $haystack, $strict=false, $path=array()
   <head>
     <meta charset="utf-8">
     <title><?PHP echo $page->get_title(); ?></title>
-    <script src="bootstrap/js/jquery.js"></script>
+    <script src="/bootstrap/js/jquery.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="Lawrence Job (GridFusions) on behalf of Rewired State">
 
     <!-- Le styles -->
-    <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
     <style>
       body {
         padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
       }
     </style>
-    <link href="bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
     <style>
 	.navbar-inner{
 		background-color:#B63322;
@@ -334,7 +334,7 @@ background-position:20px -1px}
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="bootstrap/js/bootstrap.js"></script>
+    <script src="/bootstrap/js/bootstrap.js"></script>
 	        <script>
 			$('#yrs-info-tabs a').click(function (e) {
 				e.preventDefault();
