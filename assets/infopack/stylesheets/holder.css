@@ -1,0 +1,41 @@
+* { margin: 0; padding: 0; }
+
+body {
+	font-size: 14px;
+	font-family: 'Belleza', sans-serif;
+	background: #f1f1f1;
+	background: url('../images/backgrounds/light-noise.png') repeat top left;
+}
+
+.wrapper { 
+	width: 850px; 
+	margin: 0 auto; 
+}
+
+footer {
+	clear: both;
+	padding-top: 40px;
+	text-align: center;
+	cursor: default;
+	padding-bottom: 30px;
+}
+	footer p {
+		color: #aaa;
+		font-size: 11px;
+		padding: 4px 8px 4px 8px;
+		background: #f7f7f7;
+		background: rgba(0,0,0,0.05);
+		display: inline;
+		-webkit-border-radius: 4px;
+		-moz-border-radius: 4px;
+		border-radius: 4px;
+		-webkit-transition:color 0.2s ease-in, background 0.2s ease-in;  
+    -moz-transition:color 0.2s ease-in, background 0.2s ease-in;  
+    -o-transition:color 0.2s ease-in, background 0.2s ease-in;  
+    transition:color 0.2s ease-in, background 0.2s ease-in;
+	}
+	footer p:hover {
+		background: #f1f1f1;
+		background: rgba(0,0,0,0.06);
+		color: #888;
+	}
