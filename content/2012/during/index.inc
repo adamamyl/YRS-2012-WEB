@@ -1,6 +1,6 @@
         <div class="hero-unit">
         <h1>SAP Young Rewired State 2012</h1>
-        <p><a class="btn btn-danger btn-large" href="kids/itenerary.html">Where am I meant to be? &rarr;</a> <a class="btn btn-large" href="foc/">About the weekend festival &rarr;</a> <a class="btn btn-large" href="foc/press.html">Press &amp; info &rarr;</a> <a class="btn btn-large" href="kids/links.html">Coding Links &rarr;</a></p>
+        <p><a class="btn btn-danger btn-large" href="kids/itinerary.html">Where am I meant to be? &rarr;</a> <a class="btn btn-large" href="foc/">About the weekend festival &rarr;</a> <a class="btn btn-large" href="foc/press.html">Press &amp; info &rarr;</a> <a class="btn btn-large" href="kids/links.html">Coding Links &rarr;</a></p>
       </div>
 	  <h1>As it Happens <small>#yrs2012 #yrshelp #SAPYRS</small></h1>
 	  <div id="flickrwidget-container"><div id="flickrwidget">&nbsp;</div></div>
