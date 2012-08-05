@@ -5,7 +5,6 @@ redirect 301 /festival http://youngrewiredstate.org/foc/
 
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{DOCUMENT_ROOT}/delegate\.php -f
 RewriteRule ^(.*)$  /delegate.php?p=$1 [QSA]
 
