@@ -9,14 +9,14 @@
 	<div class="span12" style="" id="sponsorspage">
 	<h2>Headline Sponsor: SAP</h2>
 	<ul class="sponsors headlineSAP">
-		<li><a href="http://www.sap.com/uk/index.epx"><img alt="SAP" src="assets/sap-large.png" /></a></li>
+		<li><a href="http://www.sap.com/uk/index.epx"><img alt="SAP" src="/assets/sap-large.png" /></a></li>
 	</ul>
 	
 	
 			<h2>Deputy Heads: The Indigo Trust & Three</h2>
 			<ul class="deputyheads">
-			<li><img src="assets/sponsors/indigo.jpg" /></li>
-			<li><img alt="Three" src="assets/sponsors/three.jpg" /></li>
+			<li><img src="/assets/sponsors/indigo.jpg" /></li>
+			<li><img alt="Three" src="/assets/sponsors/three.jpg" /></li>
 			</ul>
 		<div class="">
 		<h2>Joint Heads of P.E.</h2>
@@ -35,23 +35,23 @@
         <h2>Senior Prefects</h2>
 		<ul class="sponsors seniorprefects">
         <li>
-            <p><a href="http://google.co.uk/"><img alt="Google UK" src="assets/sponsors/google.png"></a></p>
+            <p><a href="http://google.co.uk/"><img alt="Google UK" src="/assets/sponsors/google.png"></a></p>
         </li><!-- closing grid3 -->
 
         <li>
-            <p><a href="http://oreilly.com/"><img alt="O' Reilly" src="assets/sponsors/oreilly.png"></a></p>
+            <p><a href="http://oreilly.com/"><img alt="O' Reilly" src="/assets/sponsors/oreilly.png"></a></p>
         </li><!-- closing grid3 -->
 
         <li>
-            <p><a href="http://developer.pearson.com"><img alt="Pearson" src="assets/sponsors/pearson.png"></a></p>
+            <p><a href="http://developer.pearson.com"><img alt="Pearson" src="/assets/sponsors/pearson.png"></a></p>
         </li><!-- closing grid3 -->
 
         <li>
-            <p><a href="http://web.aqa.org.uk/qual/newgcses/ict/computer-science-overview.php?id=10&__utma=43460533.1102982496.1333622839.1333622839.1334133713.2&__utmb=43460533.4.10.1340882663&__utmc=43460533&__utmx=-&__utmz=43460533.1333622839.1.1.utmcsr=intranet|utmccn=(referral)|utmcmd=referral|utmcct=/&__utmv=-&__utmk=58535023"><img alt="AQA" src="assets/sponsors/aqa-logo-200x100.gif"></a></p>
+            <p><a href="http://web.aqa.org.uk/qual/newgcses/ict/computer-science-overview.php?id=10&__utma=43460533.1102982496.1333622839.1333622839.1334133713.2&__utmb=43460533.4.10.1340882663&__utmc=43460533&__utmx=-&__utmz=43460533.1333622839.1.1.utmcsr=intranet|utmccn=(referral)|utmcmd=referral|utmcct=/&__utmv=-&__utmk=58535023"><img alt="AQA" src="/assets/sponsors/aqa-logo-200x100.gif"></a></p>
         </li><!-- closing grid3 -->
 
         <li>
-            <p><a href="http://dxw.com/"><img alt="DXW" src="assets/sponsors/dxw.png"></a></p>
+            <p><a href="http://dxw.com/"><img alt="DXW" src="/assets/sponsors/dxw.png"></a></p>
         </li><!-- closing grid3 -->
 		</ul>
 		

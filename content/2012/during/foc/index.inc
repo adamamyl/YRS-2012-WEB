@@ -2,7 +2,7 @@
 <div class="row judges">
 	<div class="span4">
     <div class="cont">
-    <img src="assets/lilycole.jpg" width="225" height="225" alt="Aral Balkin">
+    <img src="/assets/lilycole.jpg" width="225" height="225" alt="Aral Balkin">
     <h3>Lily Cole</h3>
     <p><small>Photo by James Moriarty/The North Circular</small></p>
     <p>The actress and ethical campaigner was was originally introduced to Rewired State to help develop her social giving site impossible.com. The new tech entrepreneur said about being asked to judge for Young Rewired State; "I am really looking forward to Young Rewired State. I can't wait to see what these kids create and discover genius coders."</p>
@@ -11,21 +11,21 @@
     </div></div>
 	<div class="span4">
     <div class="cont">
-    <img src="assets/Conrad_067.jpg" width="225" height="225" alt="Aral Balkin">
+    <img src="/assets/Conrad_067.jpg" width="225" height="225" alt="Aral Balkin">
     <h3>Conrad Wolfram</h3>
     <p>Mathematician, programmer, technologist and founder of Wolfram Research said; "Coding is the technical language of creativity, so it's great to be helping to judge our brightest young coders' work. And what better year than Turing's centenary?"</p>
     <p><a href="http://www.conradwolfram.com/">http://conradwolfram.com</a></p>
     </div></div>
 	<div class="span4">
     <div class="cont">
-    <img src="assets/aral-headshot-high-res.jpg" width="225" height="225" alt="Aral Balkin">
+    <img src="/assets/aral-headshot-high-res.jpg" width="225" height="225" alt="Aral Balkin">
     <h3>Aral Balkin</h3>
     <p>Experienced designer and developer said; "Programming taught me that I can make things, that I can change the world around me, and that my imagination truly is the only limit. That's why events like Festival of Code are so important. Programming is the new literacy and initiatives like the Festival of Code are essential catalysts in inspiring and empowering the Shakespeares of tomorrow".</p>
     <p><a href="http://aralbalkan.com/">http://aralbalkin.com</a></p>
     </div></div>
 	<div class="span4">
     <div class="cont">
-    <img src="assets/JonathanLuff.jpg" width="225" height="225" alt="Aral Balkin">
+    <img src="/assets/JonathanLuff.jpg" width="225" height="225" alt="Aral Balkin">
     <h3>Jonathan Luff</h3>
     <p>Advisor at No 10 and Director of the GREAT campaign "I am really pleased to be a Young Rewired State judge again. If the last time is anything to go by, my fellow judges and I will be blown away by the talent and creativity of the kids involved. I can't wait to see what they can produce."</p>
     <p><a href="http://uk.linkedin.com/pub/jonathan-luff/39/993/b77">Jonathan Luff on LinkedIn</a>
@@ -33,7 +33,7 @@
     </div></div>
 	<div class="span4">
     <div class="cont">
-    <img src="assets/thomasgrassl.jpg" width="225" height="225" alt="Aral Balkin">
+    <img src="/assets/thomasgrassl.jpg" width="225" height="225" alt="Aral Balkin">
     <h3>Thomas Grassl</h3>
     <p>Thomas Grassl is Senior Director leading SAP's Global Developer Relations programs for Mobile, Databases, Cloud, Tools and APIs. "Developers bring ideas, software and innovation to life. We at SAP are very excited to be a part of this event and support young developers in their journey to become the next generation that will shape the future and help the world run better. I'm looking forward to many exciting and inspiring ideas and to congratulating the winners."</p>
     </div></div>

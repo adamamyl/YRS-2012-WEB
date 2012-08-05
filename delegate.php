@@ -7,16 +7,19 @@ require_once('widgets.php');
 
 $page=new Page();
 
-$url=$_GET['p'];
+// $url=$_GET['p'];
+$url=($_GET['p']!='')?($_GET['p']):('/');
 $url_=explode('.',$_GET['p']);
 $url=$url_[0];
 unset($url_);
+
+if($url == 'festival') header('Location: /foc/');
 
 $page->breadcrumbs=array_searchRecursive($url,$navigation);
 $page->title=end($page->breadcrumbs);
 
 if(file_exists($page->get_content_path($url,$competition_location))==FALSE){
-	$page->error(404);
+        $page->error(404);
 }
 
 
