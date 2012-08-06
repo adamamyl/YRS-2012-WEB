@@ -2,6 +2,7 @@ Options +FollowSymLinks
 RewriteEngine on
 
 redirect 301 /festival http://youngrewiredstate.org/foc/
+redirect 301 /2011 http://youngrewiredstate.org/foc/2011.html
 
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f

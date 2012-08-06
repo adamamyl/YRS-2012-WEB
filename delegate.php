@@ -14,6 +14,7 @@ $url=$url_[0];
 unset($url_);
 
 if($url == 'festival') header('Location: /foc/');
+if($url == '2011') header('Location: /foc/2011.html');
 
 //echo ($url=='')?('/'):($url)
 
