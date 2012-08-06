@@ -62,9 +62,9 @@ The best way to get a quick response is via our Twitter, phones or by email, so 
           <td>-</td>
         </tr><tr>
           <td colspan="2"><strong>Parents</strong>; if you've any questions</td>
-          <td>Angie L</td>
-          <td><a href="mailto:angie@youngrewiredstate.org">angie@</a></td>
-          <td>07594 856 821</td>
+          <td>Angi L</td>
+          <td><a href="mailto:angi@youngrewiredstate.org">angi@</a></td>
+          <td> </td>
         </tr>
         <tr>
           <td colspan="2"><strong>Centres</strong>; prospectus and current</td>
