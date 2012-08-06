@@ -1,20 +1,20 @@
 <h2>What happened in 2011?</h2>
-<div class="row"></div>
+<div class="row">
     <div class="span3">
       <h2>Young Rewired State 2011</h2>
       <p>Last year's Young Rewired State was a massive success, drawing in more than 150 young developers from across the country. More than 30 projects were presented to a judging panel including Andrew Sampson, Chewy Trewhella of Google, Helen Milner and Mike Butcher of TechCrunch Europe.<br /><br />Read more about YRS2011 on the <a href="">Young Rewired State Blog</a></p>
     </div><!-- closing span3 -->
 
+	<div class="span9">
     <iframe id="lastvideo" width="620" wmode="transparent" height="345" src="http://www.youtube.com/embed/2Ws57UT_xX0" frameborder="0" allowfullscreen></iframe>
     <br class="clear" />
-  </div><!-- closing container -->
-</div><!-- closing section3 -->
-
-<div id="section2">
-  <div class="container">
+    </div>
+    </div>
+    
 
     <div class="title"><h2>Last year's winners</h2></div>
 
+    <div class="row">
     <div class="span3">
       <div class="lastimg"><img src="/img/2011_winners/10.jpeg" height="150px"></div>
       <h2>Best in show</h2>
