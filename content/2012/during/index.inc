@@ -142,7 +142,7 @@ function createTweet(tweet){
 function refFlickr(){
 $.ajax({
    type: 'GET',
-    url: 'http://api.flickr.com/services/feeds/photos_public.gne?tags=yrs2011&lang=en-us&format=json',
+    url: 'http://api.flickr.com/services/feeds/photos_public.gne?tags=yrs2012&lang=en-us&format=json',
     async: false,
 	jsonpCallback: 'jsonFlickrFeed',
 	contentType: "application/json",
