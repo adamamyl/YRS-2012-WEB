@@ -63,7 +63,7 @@ The best way to get a quick response is via our Twitter, phones or by email, so 
         </tr><tr>
           <td colspan="2"><strong>Parents</strong>; if you've any questions</td>
           <td>Angi L</td>
-          <td><a href="mailto:angi@youngrewiredstate.org">angi@</a></td>
+          <td><a href="mailto:angilong@gmail.com">angi@</a></td>
           <td> </td>
         </tr>
         <tr>
