@@ -81,7 +81,12 @@
 			
 			<li>
 				<a href="http://www.yousrc.com/"><img alt="YouSrc" src="http://youngrewiredstate.org/img/sponsors/yousrc.png"></a>
-			</li><!-- closing grid3 -->
+			</li>
+			
+			<li>
+				<a href="http://www.tso.co.uk"><img alt="The Stationery Office" src="http://youngrewiredstate.org/img/sponsors/TSO.jpg" /></a>
+			</li>
+			<!-- closing grid3 -->
 
             <br>
 
