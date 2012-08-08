@@ -60,7 +60,7 @@
 
 <p>Prizes are awarded in the evening and then everyone can relax and celebrate underneath the arches of the Custard Factory.</p>
 
-<p>The schedule for the Festival of Code in full is here: Festival of Code on Lanyrd</p>
+<p>The schedule for the Festival of Code in full is here: <a href="http://lanyrd.com/2012/festival-of-code/">Festival of Code on Lanyrd</a></p>
 
 <p style="font-weight:bold;color:#920">Be warned, we are proudly not funded by government, your tax money is better spent elsewhere, we rely only on sponsorship and run this event at no profit, every penny goes into making this happen (not people fees) - which is quite expensive even though we get away with a lot of donated stuff... and people. However, we cannot stretch to supplying you with food and booze, even though we would love to, so please bring cash with you for the bar and food concessions we will have on site.</p>
 </div>
