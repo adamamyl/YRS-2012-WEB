@@ -11,7 +11,7 @@
                         <h2>Further information</h2>
 
             <p>This year we have asked for a number of parents from previous years to act as points of contact for all of you — for any questions you may want to ask a parent who has had a child attend Young Rewired State before.</p>
-            <p>The contact details for these parents will be shared with you through your child (once they have registered) but in the first instance, please <a href="mailto:angijlong@gmail.com"> contact "Angi Long"</a>.
+            <p>The contact details for these parents will be shared with you through your child (once they have registered) but in the first instance, please <a href="mailto:angijlong@gmail.com"> contact "Angi L"</a>.
               To speak to one of the organisers about other practical matters, please use the <a href="/contact/">contact details</a> on this site.
             </p>
             </div>
@@ -35,7 +35,7 @@
             <ul>
                 <li><p>Age limit: 18 years and under (no lower age range)</p></li>
                 <li><p>Young people aged 18+ will sleep in a separate area</p></li>
-                <li><p>Young people aged 16-18 will sleep in a separate area, with written parental/guardian agreement provided to Rewired State</p></li>
-                <li><p>Young people aged 15 and under will need to be accompanied by a parent or carer and will be in a further segregated area</p></li>
+                <li><p>Young people aged 14-17 will sleep in a separate area, with written parental/guardian agreement provided to Rewired State</p></li>
+                <li><p>Young people aged 13 and under will need to be accompanied by a parent or carer and will be in a further segregated area</p></li>
             </ul>
             </div></div>

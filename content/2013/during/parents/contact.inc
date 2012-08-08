@@ -6,16 +6,16 @@
 			</div>
 			<div class="span4">
 				<div class="well">
-					<h3>Angi</h3>
-					<p>Angi is available for any questions about the event from a parent's perspective.</p>
-					<a class="btn btn-primary">Email Angie</a>
+					<h3>Angi L</h3>
+					<p>Angi L is available for any questions about the event from a parent's perspective.</p>
+					<a class="btn btn-primary">Email Angi L</a>
 				</div>
 			</div>
 			<div class="span4">
 				<div class="well">
-					<h3>Lawrence & Kevin</h3>
-					<p>Lawrence and Kevin are available for any questions about the event from kids and parents.</p>
-					<a class="btn">Email Lawrence &amp; Kevin</a>
+					<h3>Emma & Neil</h3>
+					<p>Emma and Neil are available for any questions about the event from kids and parents.</p>
+					<a class="btn">Email Emma &amp; Neil.</a>
 				</div>
 			</div>
 		</div>

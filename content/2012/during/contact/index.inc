@@ -22,7 +22,7 @@ The best way to get a quick response is via our Twitter, phones or by email, so 
         <tr>
           <td>Operations</td>
           <td>Emma M</td>
-          <td><a href="mailto:emma@youngrewiredstate.org">emma@</a></td>
+          <td><a href="mailto:emma@rewiredstate.org">emma@</a></td>
           <td>07730 570647</td>
         </tr>
         <tr>
@@ -51,7 +51,7 @@ The best way to get a quick response is via our Twitter, phones or by email, so 
         <tr>
           <td>Sponsors</td>
           <td>Emma M</td>
-          <td><a href="mailto:emma@youngrewiredstate.org">emma@</a></td>
+          <td><a href="mailto:emma@rewiredstate.org">emma@</a></td>
           <td>07730 570647</td>
         </tr>
         <tr>
@@ -63,18 +63,20 @@ The best way to get a quick response is via our Twitter, phones or by email, so 
         </tr><tr>
           <td colspan="2"><strong>Parents</strong>; if you've any questions</td>
           <td>Angi L</td>
-          <td><a href="mailto:angilong@gmail.com">angi@</a></td>
+          <td><a href="mailto:angijlong@gmail.com">angi@</a></td>
           <td> </td>
         </tr>
         <tr>
           <td colspan="2"><strong>Centres</strong>; prospectus and current</td>
           <td rowspan="2">Neil F</td>
-          <td rowspan="2"><a href="mailto:neil@youngrewiredstate.org">neil@</a></td>
+          <td rowspan="2"><a href="mailto:neil@rewiredstate.org">neil@</a></td>
           <td rowspan="2">07525 246356</td>
         </tr>
         <tr>
           <td colspan="2"><strong>Mentors</strong>; prospectus and current</td>
-          
+          <td rowspan="2">Neil F</td>
+          <td rowspan="2"><a href="mailto:neil@rewiredstate.org">neil@</a></td>
+          <td rowspan="2">07525 246356</td>          
         </tr>
     </tbody>
 </table>
