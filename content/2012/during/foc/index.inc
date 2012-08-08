@@ -54,6 +54,16 @@
 <div class="row"><div class="span8">
 <p>Friday 10th to Sunday 12th sees the grand final of the SAP Young Rewired State 2012 week. On the Friday night the young programmers will all come to the Custard Factory in Birmingham and have fireside chats whilst they code with wonderful people who are programmers doing great things, including representatives from Raspberry Pi, London Zoo and Twilio amongst many others. Whilst they finish coding their apps and preparing their presentations they will be able to hear, chat and interact with some of the UK's greatest digital visionaries.</p>
 
+<h3>Friday night speakers</h3>
+<ul>
+	<li>Dr Kate Stone</li>
+	<li>Eben Upton</li>
+	<li>Alasdair Davies</li>
+	<li>James Gill</li>
+	<li>Leo Dearden</li>
+	<li>Tim Falls</li>
+</ul>
+
 <p>They will have a massive sleepover in the Custard Factory preparing for the Saturday show and tell. Saturday brings a morning of heats where each centre will present in five concurrent streams, to five panels of esteemed judges with winners in four prize categories (Best in Show - sponsored by SAP, Best example of Coding, Wish I had thought of that and Code a better Country) going forward to the Grand Finale in the afternoon.</p>
 
 <p>The afternoon finale will be compered by Dallas Campbell from Bang Goes the Theory, who is also a morning judge - a busy lad.</p>
