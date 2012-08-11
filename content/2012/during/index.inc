@@ -1,6 +1,6 @@
         <div class="hero-unit">
         <h1>SAP Young Rewired State 2012</h1>
-        <p><a class="btn btn-danger btn-large" href="kids/itinerary.html">Where am I meant to be? &rarr;</a> <a class="btn btn-large" href="foc/">About the weekend festival &rarr;</a> <a class="btn btn-large" href="foc/press.html">Press &amp; info &rarr;</a> <a class="btn btn-large" href="kids/links.html">Coding Links &rarr;</a><a class="btn btn-large" href="http://new.livestream.com/keyone/yrs2012">Live Stream &rarr;wq
+        <p><a class="btn btn-danger btn-large" href="kids/itinerary.html">Where am I meant to be? &rarr;</a> <a class="btn btn-large" href="foc/">About the weekend festival &rarr;</a> <a class="btn btn-large" href="foc/press.html">Press &amp; info &rarr;</a> <a class="btn btn-large" href="kids/links.html">Coding Links &rarr;</a><a class="btn btn-large" href="http://new.livestream.com/keyone/yrs2012">Live Stream &rarr;</a></p>
         </a></p>
       </div>
 	  <h1>As it Happens <small>#yrs2012 #yrshelp #SAPYRS</small></h1>
