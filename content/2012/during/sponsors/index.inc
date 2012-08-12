@@ -17,6 +17,7 @@
 			<ul class="deputyheads">
 			<li><img src="/static/sponsors/indigo.jpg" /></li>
 			<li><img alt="Three" src="/static/sponsors/three.jpg" /></li>
+			<li><img alt="Mozilla" src="/static/sponsors/mozilla.png" /></li>
 			</ul>
 		<div class="">
 		<h2>Joint Heads of P.E.</h2>
