@@ -4,6 +4,16 @@
         </a></p>
       </div>
 	  <h1>As it Happens <small>#yrs2012 #yrshelp #SAPYRS</small></h1>
+	  <div id="winners">
+		<img src="http://i.imgur.com/2mnNq.png" style="float:left;" />
+		<ul id="ticker">
+		  	<li><span class="ticker-award">SAP BEST IN SHOW</span>SmartMove<span class="ticker-description">Find your perfect house</span></li>
+		  	<li><span class="ticker-award">SHOULD EXIST</span>Way to go<span class="ticker-description">Helping people who have walking disability get around and find new places that they can access</span></li>
+		  	<li><span class="ticker-award">WISH I HAD THOUGHT OF THAT</span>Humap<span class="ticker-description">Navigation for humans</span></li>
+		  	<li><span class="ticker-award">CODE A BETTER COUNTRY</span>Why Waste A Vote?<span class="ticker-description">Bridging the gap between the UK political system and young adults</span></li>
+		  	<li><span class="ticker-award">BEST EXAMPLE OF CODING</span>Postcode Wars<span class="ticker-description">Comparing postcodes by statistics about the local area</span></li>
+		</ul>
+	  </div>
 	  <div id="flickrwidget-container"><div id="flickrwidget">&nbsp;</div></div>
     <div class="row" style="margin-bottom:30px;margin-top:30px; clear:both">
     <div class="span8">
@@ -83,8 +93,25 @@ h1 small {font-size:0.7em;color:#999;}
 
 .festivaltickets {display:block !important;}
 
+#ticker {
+	height: 20px;
+	overflow: hidden;
+}
+#ticker li {
+	height: 20px;
+}
+
+.ticker-award { color: rgb(182, 51, 34); font-weight: bold; padding-right: 10px; }
+.ticker-description { padding-left: 10px; font-style: italic;}
+
 </style>
 <script>
+
+function tick(){
+	$('#ticker li:first').slideUp( function () { $(this).appendTo($('#ticker')).slideDown(); });
+}
+setInterval(function(){ tick () }, 5000);	
+
 var greatest_id=0;
 var greatest_flickr_date=0;
 
