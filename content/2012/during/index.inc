@@ -19,7 +19,7 @@
     <div class="span8">
 		
 		
-	<iframe width="100%" height="400px" src="http://www.youtube.com/embed/uHJz13dRKms?rel=0" frameborder="0" allowfullscreen></iframe>
+	<iframe width="100%" height="600px" src="http://www.youtube.com/embed/uHJz13dRKms?rel=0" frameborder="0" allowfullscreen></iframe>
         
             
     </div>
