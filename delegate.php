@@ -241,19 +241,12 @@ background-position:20px -1px}
               <li class="<?PHP echo $page->get_active('Sponsors');?>"><a href="/sponsors/">Sponsors</a></li>
               <li class="<?PHP echo $page->get_active('Contact');?>"><a href="/contact/">Contact</a></li>
             </ul>
-            <ul class="nav pull-right">
-              <li class="tickets"><a href="http://yrs12foc.eventbrite.com/">Tickets</a></li>
-              <li class="live"><a href="http://new.livestream.com/keyone/yrs2012">LIVE NOW</a></li>
-            </ul>
           </div><!--/.nav-collapse -->
         </div>
       </div>
     </div>
 
       <div class="container"  id="container">
-  <div class="festivaltickets"><div class="cntnr">
-   <a href="http://yrs12foc.eventbrite.com/"><span>Get your tickets now!</span></a>
-  </div></div>
 			<!---- BREADCRUMBS ---->
             <?PHP /*echo $page->print_nav('/'); */?>
     <div class="tabbable tabs-left">
