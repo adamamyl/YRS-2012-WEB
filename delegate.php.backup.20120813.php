@@ -128,7 +128,31 @@ function array_searchRecursive( $needle, $haystack, $strict=false, $path=array()
 	
 	#sponsorspage li {height:100px;width:260px; float:left; padding:20px;list-style:none;text-align:center}
 	#sponsorspage ul {padding:0px;margin:0px;}
-		
+	
+	.festivaltickets {position:absolute;
+		top:30px;
+		z-index:9001;
+		width:auto;
+		left:80%;
+		display:none;
+	}
+	.festivaltickets .cntnr {position:relative;
+	width:50%;}
+	.festivaltickets a {
+		display:block;
+		float:right;
+		background-image:url(/static/tickets.png);
+		background-repeat:no-repeat;
+		background-position:0px 0px;
+		width:217px;
+		height:250px;
+		text-decoration:none;
+	}
+	.festivaltickets a:active {
+		background-position:0px -248px;
+	}
+	.festivaltickets a span {visibility:collapse;}
+	
 	.tickets,.live {
 		
 font-weight: bold;
