@@ -2,15 +2,16 @@
 	<div class="span8">
 	
 		<h2>The Hacks</h2>
-		<p><a href="http://hacks.rewiredstate.org/events/yrs2012">All the hacks in one place!</a></p>
+			<p><a href="http://hacks.rewiredstate.org/events/yrs2012">All the hacks in one place!</a></p>
 	
 	
 		<h2>Videos</h2>
-		<p>Here are some videos from before, during and after the event: </p>
+			<p>Here are some videos from before, during and after the event: </p>
 
 		<ul>
 			<strong>Before</strong>
 			<li><a href="http://youtu.be/erTUl9m4-to">Emma and Lawrence introduce SAP YRS 2012</a></li>
+			<li><a href="http://www.youtube.com/watch?v=25WuyA8qLwI">A message of support from DJ Adams of SAP</a></li>
 			<strong>During</strong>
 			<li><a href="https://vimeo.com/madlabuk">MadLab from Manchester's Vimeo channel</a></li>
 			<li><a href="http://youtu.be/uirWZz6ZOro">Brandon presents TruMPs for Android</a></li>
@@ -29,9 +30,13 @@
 		
 		<h2>Photos</h2>
 		
-		<ul>
-			<li><a href="http://www.flickr.com/search/?q=yrs2012&ss=2&s=int">Search for yrs2012 on Flickr</a></li>
-		</ul>
+			<ul>
+				<li><a href="http://www.flickr.com/search/?q=yrs2012&ss=2&s=int">Search for yrs2012 on Flickr</a></li>
+				<li><a href="https://www.facebook.com/media/set/?set=a.146518502154321.31145.110152649124240&type=3">import.io Facebook gallery</a></li>
+				<li><a href="http://www.flickr.com/photos/simionp/sets/72157631038385278/">YRS 2012 Part One by Simion Putina (Flickr)</a></li>
+				<li><a href="http://www.flickr.com/photos/simionp/sets/72157631053144096/">YRS 2012 Part Two by Simion Putina (Flickr)</a></li>
+			
+			</ul>
 	
 		
 		<h2>Press and Blogs</h2>
@@ -39,8 +44,8 @@
 			<ul>
 				<li><a href="http://www.kernelmag.com/scene/3093/yrs-2012/">Fuelling the Start-Ups of Tomorrow (The Kernel)</a></li>
 				<li><a href="http://www.wired.co.uk/news/archive/2012-08/10/digital-olympics">A young programer's account of Rewired State's Festival of Code (Wired UK)</a></li>
-				<li><a href="http://jaybyjayfresh.com/2012/08/11/young-rewired-state-finals/">Live blogging of the finale Jay from Jayfresh</a></li>
-				
+				<li><a href="http://jaybyjayfresh.com/2012/08/11/young-rewired-state-finals/">Live blogging of the finale (Jay from Jayfresh)</a></li>
+				<li><a href="http://www.sequence.co.uk/en/sitecore/content/Blog/YRS2012.aspx">Young Rewired State 2012 (Sequence)</a></li>
 			</ul>
 		
 		
