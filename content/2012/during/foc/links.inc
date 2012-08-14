@@ -10,6 +10,7 @@
 
 		<ul>
 			<li><a href="http://youtu.be/erTUl9m4-to">Emma and Lawrence introduce SAP YRS 2012</a></li>
+			<li><a href="https://vimeo.com/madlabuk">MadLab from Manchester's Vimeo channel</a></li>
 			<li><a href="http://youtu.be/uirWZz6ZOro">Brandon presents TruMPs for Android</a></li>
 			<li><a href="http://youtu.be/3wa9zNazrl8">Creative Computing Club report in from Ipswich</a></li>
 			<li><a href="http://youtu.be/Kj-rncj0kpM">Weather Fight by Greg and Justin Auger</a></li>
@@ -32,6 +33,8 @@
 		
 			<ul>
 				<li><a href="http://www.wired.co.uk/news/archive/2012-08/10/digital-olympics">A young programer's account of Rewired State's Festival of Code (Wired UK)</a></li>
+				<li><a href="http://jaybyjayfresh.com/2012/08/11/young-rewired-state-finals/">Live blogging of the finale Jay from Jayfresh</a></li>
+				
 			</ul>
 		
 		
