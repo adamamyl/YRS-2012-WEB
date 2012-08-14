@@ -6,7 +6,7 @@
 	
 	
 		<h2>Videos</h2>
-		<p>Here are some videos from before and during the event: </p>
+		<p>Here are some videos from before, during and after the event: </p>
 
 		<ul>
 			<strong>Before</strong>
@@ -21,7 +21,9 @@
 			<li><a href="http://new.livestream.com/keyone/yrs2012">Winners announcements and prize presentations	</a></li>
 			<strong>After</strong>
 			<li><a href="http://youtu.be/uHJz13dRKms">YRS 2012 Thank You video</a></li>
-			<li><a href="http://youtu.be/DdaiRiKn3kA">Feedback from one our SAP judges</a></li>			
+			<li><a href="http://youtu.be/DdaiRiKn3kA">Feedback from one our SAP judges</a></li>
+			<li><a href="http://youtu.be/YLKhGWxjh-w">SAP YRS 2012 - A Snapshot</a></li>
+			<li><a href="http://youtu.be/aIfjATM3DgU">SAP YRS 2012 - A Little More Depth</a></li>		
 		</ul>
 		
 		
@@ -35,6 +37,7 @@
 		<h2>Press and Blogs</h2>
 		
 			<ul>
+				<li><a href="http://www.kernelmag.com/scene/3093/yrs-2012/">Fuelling the Start-Ups of Tomorrow (The Kernel)</a></li>
 				<li><a href="http://www.wired.co.uk/news/archive/2012-08/10/digital-olympics">A young programer's account of Rewired State's Festival of Code (Wired UK)</a></li>
 				<li><a href="http://jaybyjayfresh.com/2012/08/11/young-rewired-state-finals/">Live blogging of the finale Jay from Jayfresh</a></li>
 				
