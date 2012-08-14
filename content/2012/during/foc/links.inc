@@ -9,7 +9,9 @@
 		<p>Here are some videos from before and during the event: </p>
 
 		<ul>
+			<strong>Before</strong>
 			<li><a href="http://youtu.be/erTUl9m4-to">Emma and Lawrence introduce SAP YRS 2012</a></li>
+			<strong>During</strong>
 			<li><a href="https://vimeo.com/madlabuk">MadLab from Manchester's Vimeo channel</a></li>
 			<li><a href="http://youtu.be/uirWZz6ZOro">Brandon presents TruMPs for Android</a></li>
 			<li><a href="http://youtu.be/3wa9zNazrl8">Creative Computing Club report in from Ipswich</a></li>
@@ -17,6 +19,7 @@
 			<li><a href="http://youtu.be/nG4STg0HuAE">RadioSight from ionCube centre</a></li>
 			<li><a href="http://youtu.be/_kKi7sTwZFg">Medal Run by Kieran, Aidan (with a bit of help from Mo)</a></li>
 			<li><a href="http://new.livestream.com/keyone/yrs2012">Winners announcements and prize presentations	</a></li>
+			<strong>After</strong>
 			<li><a href="http://youtu.be/uHJz13dRKms">YRS 2012 Thank You video</a></li>
 			<li><a href="http://youtu.be/DdaiRiKn3kA">Feedback from one our SAP judges</a></li>			
 		</ul>
