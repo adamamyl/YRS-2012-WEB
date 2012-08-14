@@ -2,8 +2,8 @@
 	<div class="span8">
 	
 		<h2>The Hacks</h2>
-		
 		<p><a href="http://hacks.rewiredstate.org/events/yrs2012">All the hacks in one place!</a></p>
+	
 	
 		<h2>Videos</h2>
 		<p>Here are some videos from before and during the event: </p>
@@ -20,9 +20,19 @@
 			<li><a href="http://youtu.be/DdaiRiKn3kA">Feedback from one our SAP judges</a></li>			
 		</ul>
 		
+		
 		<h2>Photos</h2>
 		
-		<p><a href="http://www.flickr.com/search/?q=yrs2012&ss=2&s=int">Search for yrs2012 on Flickr</a></p>
+		<ul>
+			<li><a href="http://www.flickr.com/search/?q=yrs2012&ss=2&s=int">Search for yrs2012 on Flickr</a></li>
+		</ul>
+	
+		
+		<h2>Press and Blogs</h2>
+		
+			<ul>
+				<li><a href="http://www.wired.co.uk/news/archive/2012-08/10/digital-olympics">A young programer's account of Rewired State's Festival of Code (Wired UK)</a></li>
+			</ul>
 		
 		
 	
