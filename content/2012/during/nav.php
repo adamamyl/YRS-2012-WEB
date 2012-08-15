@@ -11,6 +11,7 @@ Tickets
 Sponsors
 */
 $navigation['As it Happens'][0]='/';
+$navigation['Festival of Code']['Links and Coverage']='foc/links';
 $navigation['Festival of Code']['SAP YRS Festival of Code 2012']='foc/';
 $navigation['Festival of Code']['Last Year']='foc/2011';
 $navigation['Festival of Code']['Press']='foc/press';
