@@ -15,6 +15,7 @@ $navigation['Festival of Code']['Links and Coverage']='foc/links';
 $navigation['Festival of Code']['SAP YRS Festival of Code 2012']='foc/';
 $navigation['Festival of Code']['Last Year']='foc/2011';
 $navigation['Festival of Code']['Press']='foc/press';
+$navigation['Festival of Code']['Sign Up']='foc/signup';
 $navigation['Parents']['Home']='parents/';
 $navigation['Parents']['Festival of Code']='parents/foc';
 $navigation['Parents']['Safety']='parents/safety';
