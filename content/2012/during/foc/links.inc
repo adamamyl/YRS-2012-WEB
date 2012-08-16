@@ -48,6 +48,16 @@
 				<li><a href="http://jaybyjayfresh.com/2012/08/11/young-rewired-state-finals/">Live blogging of the finale (Jay from Jayfresh)</a></li>
 				<li><a href="http://www.sequence.co.uk/en/sitecore/content/Blog/YRS2012.aspx">Young Rewired State 2012 (Sequence)</a></li>
 				<li><a href="http://fluxxhasateam.tumblr.com">Fluxx has a team</a></li>
+				<li><a href="http://zcint.co.uk/article/judges-amazed-by-young-rewired-state-coders">Judges “Amazed” By Young Rewired State Coders (ZConnection)</a></li>
+				<li><a href="http://www.openkent.org.uk/index.php/blog/kcc-hosted-hack-day-for-young-creatives/">KCC hosted hack day for young creatives (Open Kent)</a></li>
+				<li><a href="http://www.thisiskent.co.uk/Young-people-needed-programming-festival/story-16521966-detail/story.html">Young people needed for IT programming festival (This is Kent)</a></li>
+				<li><a href="http://www.guardian.co.uk/technology/2012/jul/02/lily-cole-judge-young-rewired-competition">Lily Cole to judge Young Rewired programming competition (The Guardian)</a></li>
+				<li><a href="http://www.computerweekly.com/news/2240159076/Lily-Cole-to-judge-Young-Rewired-State-Competition">Lily Cole to judge Young Rewired State Competition (Computer Weekly)</a></li>
+				<li><a href="http://manchester.girlgeekdinners.com/2012/06/29/1151/">An Introduction to Coding with Young Rewired State (Manchester Girl Geeks)</a></li>
+				<li><a href="http://www.kernelmag.com/scene/3019/young-rewired-state-2012-kicks-off/">Young Rewired State 2012 Kicks Off (The Kernel)</a></li>
+				<li><a href="http://www.thisisbath.co.uk/Bath-teenagers-programmed-Young-Rewired-State/story-16682175-detail/story.html">Bath teenagers programmed for Young Rewired State Festival of Code (This is Bath)</a></li>
+				<li><a href="http://www.librarydust.info/?p=317">Young Rewired State (Library Dust)</a></li>
+				
 				
 			</ul>
 		
