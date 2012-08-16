@@ -69,7 +69,10 @@
 				<li><a href="http://www.citysdk.eu/2012/08/15/young-rewired-state-thrives-on-open-data/">Young Rewired State Thrives On Open Data (Cuty SDK)</a></li>
 			</ul>
 		
-		
+		<h2>Audio</h2>
+			<ul>
+				<li><a href="http://download.guardian.co.uk/audio/kip/technology/series/techweekly/1344347653104/8784/gnl.tech.120807.jp.tech_weekly.mp3">Tech Weekly podcast: Lily Cole on why kids must code (mp3 file)</a></li>
+			</ul>		
 	
 		
 
