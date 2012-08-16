@@ -67,6 +67,8 @@
 				<li><a href="http://whatyoula.blogspot.co.uk/2012/08/young-rewired-state-2012-from-outsider.html">Young Rewired State 2012 - From an outsider (Lynn Heckles)</a></li>
 				<li><a href="http://codeboom.wordpress.com/2012/08/15/yrs-epq-and-the-return-of-the-king-of-code/">YRS, EPQ and the Return of the King (of Code) (Code;Boom)</a></li>
 				<li><a href="http://www.citysdk.eu/2012/08/15/young-rewired-state-thrives-on-open-data/">Young Rewired State Thrives On Open Data (Cuty SDK)</a></li>
+				<li><a href="http://raspberrypi4t.wordpress.com/category/young-rewired-state/">YRS – The Big Day Is Here!!!! AHHHHHH (Kid Coder)</a></li>
+				
 			</ul>
 		
 		<h2>Audio</h2>
