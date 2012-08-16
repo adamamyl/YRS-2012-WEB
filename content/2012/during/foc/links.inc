@@ -35,7 +35,8 @@
 				<li><a href="https://www.facebook.com/media/set/?set=a.146518502154321.31145.110152649124240&type=3">import.io Facebook gallery</a></li>
 				<li><a href="http://www.flickr.com/photos/simionp/sets/72157631038385278/">YRS 2012 Part One by Simion Putina (Flickr)</a></li>
 				<li><a href="http://www.flickr.com/photos/simionp/sets/72157631053144096/">YRS 2012 Part Two by Simion Putina (Flickr)</a></li>
-			
+				<li><a href="http://www.flickr.com/photos/smudgypixels/sets/72157631093615960/">YRS 2012 by Jessie and Lottie</a></li>
+				
 			</ul>
 	
 		
