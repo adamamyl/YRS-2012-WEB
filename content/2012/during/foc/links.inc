@@ -32,7 +32,7 @@
 		
 			<ul>
 				<li><a href="http://www.flickr.com/search/?q=yrs2012&ss=2&s=int">Search for yrs2012 on Flickr</a></li>
-				<li><a href="http://www.flickr.com/photos/paul_clarke/sets/72157631014746400/"YRS 2012 by Paul Clarke (Flickr)</a></li>
+				<li><a href="http://www.flickr.com/photos/paul_clarke/sets/72157631014746400/">YRS 2012 by Paul Clarke (Flickr)</a></li>
 				<li><a href="http://www.flickr.com/photos/smudgypixels/sets/72157631093615960/">YRS 2012 by Jessie and Lottie</a></li>
 				<li><a href="http://www.flickr.com/photos/gt_p/sets/72157631094924452/">SAP YRS2012 at The Custard Factory by Gordon Tant (Flickr)</a></li>
 				<li><a href="https://www.facebook.com/media/set/?set=a.146518502154321.31145.110152649124240&type=3">import.io Facebook gallery</a></li>
