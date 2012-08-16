@@ -32,10 +32,12 @@
 		
 			<ul>
 				<li><a href="http://www.flickr.com/search/?q=yrs2012&ss=2&s=int">Search for yrs2012 on Flickr</a></li>
+				<li><a href="http://www.flickr.com/photos/paul_clarke/sets/72157631014746400/"YRS 2012 by Paul Clarke (Flickr)</a></li>
+				<li><a href="http://www.flickr.com/photos/smudgypixels/sets/72157631093615960/">YRS 2012 by Jessie and Lottie</a></li>
 				<li><a href="https://www.facebook.com/media/set/?set=a.146518502154321.31145.110152649124240&type=3">import.io Facebook gallery</a></li>
 				<li><a href="http://www.flickr.com/photos/simionp/sets/72157631038385278/">YRS 2012 Part One by Simion Putina (Flickr)</a></li>
 				<li><a href="http://www.flickr.com/photos/simionp/sets/72157631053144096/">YRS 2012 Part Two by Simion Putina (Flickr)</a></li>
-				<li><a href="http://www.flickr.com/photos/smudgypixels/sets/72157631093615960/">YRS 2012 by Jessie and Lottie</a></li>
+				<li><a href="http://www.flickr.com/photos/madlabuk/collections/72157631003725392/">YRS 2012 at MadLab (Flickr)</a></li>
 				
 			</ul>
 	
@@ -44,7 +46,11 @@
 		
 			<ul>
 				<li><a href="http://www.kernelmag.com/scene/3093/yrs-2012/">Fuelling the Start-Ups of Tomorrow (The Kernel)</a></li>
+				<li><a href="http://www.kernelmag.com/scene/3019/young-rewired-state-2012-kicks-off/">Young Rewired State 2012 Kicks Off (The Kernel)</a></li>
 				<li><a href="http://www.wired.co.uk/news/archive/2012-08/10/digital-olympics">A young programer's account of Rewired State's Festival of Code (Wired UK)</a></li>
+				<li><a href="http://www.digitalbirmingham.co.uk/blog/yrs-is-jaw-dropping-success">YRS is jaw dropping success (Digital Birmingham)</a></li>
+				<li><a href="https://www.gosquared.com/blog/archives/3250">Young Rewired State 2012 (GoSquared)</a></li>
+				<li><a href="http://drblack.posterous.com/young-rewired-state-and-my-brother-stephen">Young Rewired State and my brother Stephen (Dr Sue Black)</a></li>
 				<li><a href="http://jaybyjayfresh.com/2012/08/11/young-rewired-state-finals/">Live blogging of the finale (Jay from Jayfresh)</a></li>
 				<li><a href="http://www.sequence.co.uk/en/sitecore/content/Blog/YRS2012.aspx">Young Rewired State 2012 (Sequence)</a></li>
 				<li><a href="http://fluxxhasateam.tumblr.com">Fluxx has a team</a></li>
@@ -54,11 +60,13 @@
 				<li><a href="http://www.guardian.co.uk/technology/2012/jul/02/lily-cole-judge-young-rewired-competition">Lily Cole to judge Young Rewired programming competition (The Guardian)</a></li>
 				<li><a href="http://www.computerweekly.com/news/2240159076/Lily-Cole-to-judge-Young-Rewired-State-Competition">Lily Cole to judge Young Rewired State Competition (Computer Weekly)</a></li>
 				<li><a href="http://manchester.girlgeekdinners.com/2012/06/29/1151/">An Introduction to Coding with Young Rewired State (Manchester Girl Geeks)</a></li>
-				<li><a href="http://www.kernelmag.com/scene/3019/young-rewired-state-2012-kicks-off/">Young Rewired State 2012 Kicks Off (The Kernel)</a></li>
 				<li><a href="http://www.thisisbath.co.uk/Bath-teenagers-programmed-Young-Rewired-State/story-16682175-detail/story.html">Bath teenagers programmed for Young Rewired State Festival of Code (This is Bath)</a></li>
 				<li><a href="http://www.librarydust.info/?p=317">Young Rewired State (Library Dust)</a></li>
-				
-				
+				<li><a href="http://craigsnowden.com/index.php/posts/yrs-2012">Young Rewired State 2012 (Craig Snowden)</a></li>
+				<li><a href="http://www.cogapp.com/blog/young-rewired-state-2012">Young Rewired State 2012 (Cogapp)>/a></li>
+				<li><a href="http://whatyoula.blogspot.co.uk/2012/08/young-rewired-state-2012-from-outsider.html">Young Rewired State 2012 - From an outsider (Lynn Heckles)</a></li>
+				<li><a href="http://codeboom.wordpress.com/2012/08/15/yrs-epq-and-the-return-of-the-king-of-code/">YRS, EPQ and the Return of the King (of Code) (Code;Boom)</a></li>
+				<li><a href="http://www.citysdk.eu/2012/08/15/young-rewired-state-thrives-on-open-data/">Young Rewired State Thrives On Open Data (Cuty SDK)</a></li>
 			</ul>
 		
 		
