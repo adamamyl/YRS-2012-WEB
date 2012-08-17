@@ -50,6 +50,7 @@
 				<li><a href="http://www.kernelmag.com/scene/3019/young-rewired-state-2012-kicks-off/">Young Rewired State 2012 Kicks Off (The Kernel)</a></li>
 				<li><a href="http://www.wired.co.uk/news/archive/2012-08/10/digital-olympics">A young programer's account of Rewired State's Festival of Code (Wired UK)</a></li>
 				<li><a href="http://www.digitalbirmingham.co.uk/blog/yrs-is-jaw-dropping-success">YRS is jaw dropping success (Digital Birmingham)</a></li>
+				<li><a href="http://indigotrust.wordpress.com/2012/08/17/young-gifted-and-coding/">Young, Gifted and Coding (Indigo Trust)</a></li>
 				<li><a href="https://www.gosquared.com/blog/archives/3250">Young Rewired State 2012 (GoSquared)</a></li>
 				<li><a href="http://drblack.posterous.com/young-rewired-state-and-my-brother-stephen">Young Rewired State and my brother Stephen (Dr Sue Black)</a></li>
 				<li><a href="http://jaybyjayfresh.com/2012/08/11/young-rewired-state-finals/">Live blogging of the finale (Jay from Jayfresh)</a></li>
@@ -69,6 +70,8 @@
 				<li><a href="http://codeboom.wordpress.com/2012/08/15/yrs-epq-and-the-return-of-the-king-of-code/">YRS, EPQ and the Return of the King (of Code) (Code;Boom)</a></li>
 				<li><a href="http://www.citysdk.eu/2012/08/15/young-rewired-state-thrives-on-open-data/">Young Rewired State Thrives On Open Data (Cuty SDK)</a></li>
 				<li><a href="http://raspberrypi4t.wordpress.com/category/young-rewired-state/">YRS – The Big Day Is Here!!!! AHHHHHH (Kid Coder)</a></li>
+				<li><a href="http://www.ubelly.com/2012/08/sap-young-rewired-state-2012/">SAP Young Rewired State 2012 (Ubelly)</a></li>
+				<li><a href="http://northliverpoolacademy.com/thestudio/the-studio-at-nla-participates-in-young-rewired-states-festival-of-code-2012/">The Studio at NLA participates in Young Rewired States “Festival of Code 2012”</a></li>
 				
 			</ul>
 		
