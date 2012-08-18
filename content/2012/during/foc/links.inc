@@ -40,7 +40,7 @@
 				<li><a href="http://www.flickr.com/photos/simionp/sets/72157631038385278/">YRS 2012 Part One by Simion Putina (Flickr)</a></li>
 				<li><a href="http://www.flickr.com/photos/simionp/sets/72157631053144096/">YRS 2012 Part Two by Simion Putina (Flickr)</a></li>
 				<li><a href="http://www.flickr.com/photos/madlabuk/collections/72157631003725392/">YRS 2012 at MadLab (Flickr)</a></li>
-				<li><a href="https://www.facebook.com/media/set/?set=a.10151093573558967.460698.307023978966&type=3">Young Rewired State 2012 by SenGrid (Facbook)</a></li>
+				<li><a href="https://www.facebook.com/media/set/?set=a.10151093573558967.460698.307023978966&type=3">Young Rewired State 2012 by SenGrid (Facebook)</a></li>
 				
 			</ul>
 	
