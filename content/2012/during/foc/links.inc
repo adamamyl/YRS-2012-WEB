@@ -24,7 +24,8 @@
 			<li><a href="http://youtu.be/uHJz13dRKms">YRS 2012 Thank You video</a></li>
 			<li><a href="http://youtu.be/DdaiRiKn3kA">Feedback from one our SAP judges</a></li>
 			<li><a href="http://youtu.be/YLKhGWxjh-w">SAP YRS 2012 - A Snapshot</a></li>
-			<li><a href="http://youtu.be/aIfjATM3DgU">SAP YRS 2012 - A Little More Depth</a></li>		
+			<li><a href="http://youtu.be/aIfjATM3DgU">SAP YRS 2012 - A Little More Depth</a></li>
+					
 		</ul>
 		
 		
@@ -39,6 +40,7 @@
 				<li><a href="http://www.flickr.com/photos/simionp/sets/72157631038385278/">YRS 2012 Part One by Simion Putina (Flickr)</a></li>
 				<li><a href="http://www.flickr.com/photos/simionp/sets/72157631053144096/">YRS 2012 Part Two by Simion Putina (Flickr)</a></li>
 				<li><a href="http://www.flickr.com/photos/madlabuk/collections/72157631003725392/">YRS 2012 at MadLab (Flickr)</a></li>
+				<li><a href="https://www.facebook.com/media/set/?set=a.10151093573558967.460698.307023978966&type=3">Young Rewired State 2012 by SenGrid (Facbook)</a></li>
 				
 			</ul>
 	
@@ -52,6 +54,7 @@
 				<li><a href="http://www.digitalbirmingham.co.uk/blog/yrs-is-jaw-dropping-success">YRS is jaw dropping success (Digital Birmingham)</a></li>
 				<li><a href="http://indigotrust.wordpress.com/2012/08/17/young-gifted-and-coding/">Young, Gifted and Coding (Indigo Trust)</a></li>
 				<li><a href="https://www.gosquared.com/blog/archives/3250">Young Rewired State 2012 (GoSquared)</a></li>
+				<li><a href="http://sendgrid.com/blog/young-rewired-state-coding-a-better-world/">Young Rewired State: Coding a Better WORLD (SendGrid)</a></li>
 				<li><a href="http://drblack.posterous.com/young-rewired-state-and-my-brother-stephen">Young Rewired State and my brother Stephen (Dr Sue Black)</a></li>
 				<li><a href="http://jaybyjayfresh.com/2012/08/11/young-rewired-state-finals/">Live blogging of the finale (Jay from Jayfresh)</a></li>
 				<li><a href="http://www.sequence.co.uk/en/sitecore/content/Blog/YRS2012.aspx">Young Rewired State 2012 (Sequence)</a></li>
@@ -79,6 +82,7 @@
 			<ul>
 				<li><a href="http://download.guardian.co.uk/audio/kip/technology/series/techweekly/1344347653104/8784/gnl.tech.120807.jp.tech_weekly.mp3">Tech Weekly podcast: Lily Cole on why kids must code (mp3 file)</a></li>
 				<li><a href="http://www.disruptivesocialcare.com/wp-content/uploads/DSCP_05_17Aug12.mp3">Disruptive Social Care Podcast 5</a></li>
+				
 			</ul>		
 	
 		
