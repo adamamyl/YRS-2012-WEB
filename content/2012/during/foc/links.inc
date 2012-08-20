@@ -55,6 +55,7 @@
 				<li><a href="http://indigotrust.wordpress.com/2012/08/17/young-gifted-and-coding/">Young, Gifted and Coding (Indigo Trust)</a></li>
 				<li><a href="https://www.gosquared.com/blog/archives/3250">Young Rewired State 2012 (GoSquared)</a></li>
 				<li><a href="http://sendgrid.com/blog/young-rewired-state-coding-a-better-world/">Young Rewired State: Coding a Better WORLD (SendGrid)</a></li>
+				<li><a href="http://developer.pearson.com/blog/my-week-young-rewired-state-2012">My Week With the Young Rewired State 2012 (Pearson)</a></li>
 				<li><a href="http://drblack.posterous.com/young-rewired-state-and-my-brother-stephen">Young Rewired State and my brother Stephen (Dr Sue Black)</a></li>
 				<li><a href="http://jaybyjayfresh.com/2012/08/11/young-rewired-state-finals/">Live blogging of the finale (Jay from Jayfresh)</a></li>
 				<li><a href="http://www.sequence.co.uk/en/sitecore/content/Blog/YRS2012.aspx">Young Rewired State 2012 (Sequence)</a></li>
